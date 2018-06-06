@@ -1,1 +1,2 @@
 # ideas
+speed measure
