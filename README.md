@@ -1,2 +1,2 @@
 # ideas
-speed measure
+speed measure: show on map
